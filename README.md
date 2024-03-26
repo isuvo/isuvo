@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm shuvo</h1>
-<h3 align="center">I am a Full Stack .NET Developer and an AI enthusiast.</h3>
+<h3 align="center">I am a Full Stack Developer and an AI enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isuvo&label=Profile%20views&color=0e75b6&style=flat" alt="isuvo" /> </p>
 
