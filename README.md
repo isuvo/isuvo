@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm shuvo</h1>
-<h3 align="center">I am a Full Stack Developer and an AI enthusiast</h3>
+<h3 align="center">I am a full stack developer and an AI enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isuvo&label=Profile%20views&color=0e75b6&style=flat" alt="isuvo" /> </p>
 
@@ -9,19 +9,19 @@
 
 - 🔭 I’m currently working on **Blockchain technology and Pyhton**
 
-- 🌱 I’m currently learning **Data visualization and AI in developers perspective**
+- 🌱 I’m currently learning **Bert: Transformer models to do supervised learning and improve performance**
 
-- 👯 I’m looking to collaborate on **AI automatic code analysis and refactoring project**
+- 👯 Happy to collaborate on **AI automatic code analysis and refactoring**
 
-- 🤝 I’m looking for help with **ML and Deep Learning**
+- 🤝 Appreciate help with **ML and Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/isuvo](https://github.com/isuvo)
 
-- 📝 I regularly write articles on [https://suvobgd.wordpress.com/](https://suvobgd.wordpress.com/)
+- 📝 I occasionally write articles on [https://suvobgd.wordpress.com/](https://suvobgd.wordpress.com/)
 
-- 💬 Ask me about **.NET, Azure DevOps, MSSQL Server, JS, System design**
+- 💬 you can ask me about **.NET, Azure DevOps, MSSQL Server, JS frameworks, OWASP, Migration, System architecture and design**
 
-- 📫 How to reach me **email.suvo@googlemail.com**
+- 📫 How to reach me **isuvo@outlook.com**
 
 - 📄 Know about my experiences [https://isuvo.github.io/resume/](https://isuvo.github.io/resume/)
 
@@ -36,7 +36,7 @@
 <a href="https://twitter.com/suvobgd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suvobgd" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/isuvo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isuvo" height="30" width="40" /></a>
 <a href="https://medium.com/@isuvo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@isuvo" height="30" width="40" /></a>
-<a href="/https://suvobgd.wordpress.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://suvobgd.wordpress.com/feed/" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
