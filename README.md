@@ -21,11 +21,11 @@
 
 - 💬 you can ask me about **.NET, Azure DevOps, MSSQL Server, JS frameworks, OWASP, Migration, System architecture and design**
 
-- 📫 How to reach me **isuvo@outlook.com**
+- 📫 Reach me **isuvo@outlook.com**
 
 - 📄 Know about my experiences [https://isuvo.github.io/resume/](https://isuvo.github.io/resume/)
 
-- ⚡ Fun fact **not so serious**
+- ⚡ Fun fact **why so serious!**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
