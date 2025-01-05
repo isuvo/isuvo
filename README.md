@@ -1,67 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shuvo</h1>
 <h3 align="center">I am a full stack developer and an AI ML Researcher</h3> 
   
-# Image Management
-
-docker build -t resumeapp:v1.0 . # Builds an image from a Dockerfile in current directory, tag it with resumeapp:v1.0
-docker images # Lists all available images
-docker pull resumeapp:v1.0 # Pulls the resumeapp:v1.0 image from a registry
-docker push your-dockerhub-username/resumeapp:v1.0 # Pushes the resumeapp:v1.0 image to your Docker Hub (replace your-dockerhub-username)
-docker rmi resumeapp:v1.0 # Removes the resumeapp:v1.0 image
-docker image prune # Removes unused images
-
-# Container Management
-
-docker run -d --name resumeapp-container -p 8080:80 resumeapp:v1.0 # Creates and starts a container in detached mode, names it resumeapp-container, maps port 8080 to port 80 inside the container, based on resumeapp:v1.0 image
-docker start resumeapp-container # Starts the existing resumeapp-container
-docker stop resumeapp-container # Stops the running resumeapp-container
-docker restart resumeapp-container # Restarts the resumeapp-container
-docker pause resumeapp-container # Pauses the running resumeapp-container
-docker unpause resumeapp-container # Unpauses the paused resumeapp-container
-docker rm resumeapp-container # Removes the stopped resumeapp-container
-docker ps # Lists all running containers
-docker ps -a # Lists all containers
-docker container prune # Removes stopped containers
-
-# Container Interaction
-
-docker exec -it resumeapp-container /bin/bash # Executes /bin/bash inside a running container in interactive mode
-docker logs resumeapp-container # Fetches the logs of the resumeapp-container
-docker cp resumeapp-container:/app/data.txt ./data.txt # Copies data.txt from the container to the current directory
-docker port resumeapp-container # Lists port mappings for the resumeapp-container
-
-# Docker System Information
-
-docker info # Displays system-wide information
-docker version # Displays Docker version
-
-# Docker Network
-# Assuming a default bridge network, commands remain generic
-docker network ls # List Docker networks
-docker network create my-network # Create a Docker network named my-network
-docker network connect my-network resumeapp-container # Connect a container to my-network
-docker network disconnect my-network resumeapp-container # Disconnect a container from my-network
-docker network rm my-network # Remove a Docker network named my-network
-
-# Docker Volume
-# Assuming a named volume called resumeapp-data
-docker volume ls # List Docker volumes
-docker volume create resumeapp-data # Create a Docker volume named resumeapp-data
-docker volume rm resumeapp-data # Remove a Docker volume named resumeapp-data
-
-# Docker Compose
-# Assuming you have a docker-compose.yml file defined for your app
-docker compose up # Builds, creates and starts containers defined in docker-compose.yml
-docker compose down # Stops and removes containers and networks defined in docker-compose.yml
-docker compose ps # Lists containers created by docker-compose
-docker compose build # Builds or rebuilds service images in docker-compose.yml
-docker compose logs # View output from containers started by docker-compose
-
-# Docker login
-docker login # Log in to a Docker registry
-docker logout # Log out from a Docker registry
-enthusiast</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isuvo&label=Profile%20views&color=0e75b6&style=flat" alt="isuvo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isuvo" alt="isuvo" /></a> </p>
