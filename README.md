@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shuvo</h1>
-<h3 align="center">I am a full stack developer and an AI ML Researcher # Image Management
+<h3 align="center">I am a full stack developer and an AI ML Researcher</h3> 
+  
+# Image Management
 
 docker build -t resumeapp:v1.0 . # Builds an image from a Dockerfile in current directory, tag it with resumeapp:v1.0
 docker images # Lists all available images
