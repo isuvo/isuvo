@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/suvobgd" target="blank"><img src="https://img.shields.io/twitter/follow/suvobgd?logo=twitter&style=for-the-badge" alt="suvobgd" /></a> </p>
 
-- 🔭 I’m currently working on **Blockchain technology and Pyhton**
-
-- 🌱 I’m currently learning **Bert: Transformer models to do supervised learning and improve performance**
+- 🔭 I’m currently working on **advancing AI, Machine Learning, and Blockchain technologies while integrating AI into user applications to automate systems, enhance performance.**
 
 - 👯 Happy to collaborate on **AI automatic code analysis and refactoring**
 
