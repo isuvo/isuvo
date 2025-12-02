@@ -21,7 +21,7 @@
 
 - 📫 Reach me **isuvo@outlook.com**
 
-- 📄 Know about my experiences [https://isuvo.github.io/resume/](https://isuvo.github.io/resume/)
+- 📄 Know about my experiences ??
 
 - ⚡ Fun fact **why so serious!**
 
