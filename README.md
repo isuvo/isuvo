@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/isuvo](https://github.com/isuvo)
 
-- 📝 I occasionally write articles on [https://suvobgd.wordpress.com/](https://suvobgd.wordpress.com/)
+- 📝 Fine more about me  [https://ixuvo.com/](https://ixuvo.com)
 
 - 💬 you can ask me about **.NET, Azure DevOps, MSSQL Server, JS frameworks, OWASP, Migration, System architecture and design**
 
