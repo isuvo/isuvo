@@ -1,49 +1,115 @@
-<h1 align="center">Hi 👋, I'm Shuvo</h1>
-<h3 align="center">I am a full stack developer and an AI ML Researcher</h3> 
-  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=isuvo&label=Profile%20views&color=0e75b6&style=flat" alt="isuvo" /> </p>
+<div align="center">
 
+![Header](https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,50:0969DA,100:7C3AED&text=Shuvo&fontColor=FFFFFF&fontSize=72&fontAlignY=38&desc=Engineering%20Leadership%20%E2%80%A2%20Applied%20AI%20%E2%80%A2%20Scalable%20Systems&descAlignY=60&descSize=19&animation=fadeIn)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=900&lines=Turning+complex+technology+into+measurable+outcomes;Leading+teams+from+strategy+to+reliable+delivery;Building+secure%2C+intelligent%2C+future-ready+systems)](https://git.io/typing-svg)
 
-<p align="left"> <a href="https://twitter.com/suvobgd" target="blank"><img src="https://img.shields.io/twitter/follow/suvobgd?logo=twitter&style=for-the-badge" alt="suvobgd" /></a> </p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-ixuvo.com-0969DA?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ixuvo.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isuvo)
+[![Medium](https://img.shields.io/badge/Medium-Read-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@isuvo)
+[![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isuvo@outlook.com)
 
-- 🔭 I’m currently working on **advancing AI, Machine Learning, and Blockchain technologies while integrating AI into user applications to automate systems, enhance performance.**
+![Profile views](https://komarev.com/ghpvc/?username=isuvo&label=Profile+views&color=0969DA&style=flat-square)
 
-- 👯 Happy to collaborate on **AI automatic code analysis and refactoring**
+</div>
 
-- 🤝 Appreciate help with **ML and Deep Learning**
+## Hello — I'm Shuvo
 
-- 👨‍💻 All of my projects are available at [https://github.com/isuvo](https://github.com/isuvo)
+I work where **engineering leadership, applied AI, and business strategy** meet. I help turn ambitious ideas into secure, scalable products by aligning people, architecture, and delivery around outcomes that matter.
 
-- 📝 Fine more about me  [https://ixuvo.com/](https://ixuvo.com)
+My background spans full-stack engineering, cloud platforms, system design, DevSecOps, modernization, and AI/ML. I stay close enough to the technology to make sound decisions—and focused enough on people and execution to move complex initiatives forward.
 
-- 💬 you can ask me about **.NET, Azure DevOps, MSSQL Server, JS frameworks, OWASP, Migration, System architecture and design**
+```text
+Strategy  →  Architecture  →  Teams  →  Delivery  →  Measurable impact
+```
 
-- 📫 Reach me **isuvo@outlook.com**
+## What I bring
 
-- 📄 Know about my experiences ??
+| Direction | Execution | Technology |
+|:--|:--|:--|
+| Engineering strategy | Cross-functional leadership | Applied AI & ML |
+| Product and business alignment | Delivery ownership | Cloud-native architecture |
+| Architecture decisions | Team enablement | Secure full-stack systems |
+| Modernization roadmaps | Continuous improvement | DevSecOps & automation |
 
-- ⚡ Fun fact **why so serious!**
+## Current focus
 
-### Blogs posts
+- Building practical AI capabilities into products, workflows, and engineering systems
+- Exploring AI-assisted code intelligence, analysis, and safe refactoring
+- Leading architecture and modernization efforts for scalable, resilient platforms
+- Connecting technical decisions to customer value, delivery speed, and business outcomes
+
+## Technology landscape
+
+<details open>
+<summary><strong>AI, engineering, cloud, data, and delivery</strong></summary>
+<br />
+
+**AI & data**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**Platforms & backend**
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C Sharp](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+
+**Web & product engineering**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+
+**Data & delivery**
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
+
+</details>
+
+## Writing and ideas
+
+I write about **AI, engineering leadership, architecture, security, automation, and the decisions that turn technology into business value**.
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/suvobgd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suvobgd" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/isuvo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isuvo" height="30" width="40" /></a>
-<a href="https://medium.com/@isuvo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@isuvo" height="30" width="40" /></a>
+<div align="center">
 
-</p>
+## GitHub at a glance
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isuvo&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isuvo&theme=default" />
+  <img height="170" alt="Shuvo's GitHub profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isuvo&theme=default" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=isuvo&hide_border=true&theme=github-dark-blue" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=isuvo&hide_border=true&theme=default" />
+  <img height="170" alt="Shuvo's GitHub contribution streak" src="https://github-readme-streak-stats.herokuapp.com?user=isuvo&hide_border=true&theme=default" />
+</picture>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isuvo&show_icons=true&locale=en&layout=compact" alt="isuvo" /></p>
+![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=isuvo&bg_color=00000000&color=2F81F7&line=7C3AED&point=2F81F7&area=true&hide_border=true)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isuvo&show_icons=true&locale=en" alt="isuvo" /></p>
+### Build thoughtfully. Lead decisively. Deliver what matters.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isuvo&" alt="isuvo" /></p>
+[![X](https://img.shields.io/badge/@suvobgd-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/suvobgd)
+[![GitHub](https://img.shields.io/badge/@isuvo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/isuvo)
+[![Organization](https://img.shields.io/badge/@kage--tech-0969DA?style=flat-square&logo=github&logoColor=white)](https://github.com/kage-tech)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7C3AED,50:0969DA,100:0D1117)
+
+</div>
