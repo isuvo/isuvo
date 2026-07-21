@@ -95,58 +95,44 @@ Strategy  →  Architecture  →  Teams  →  Delivery  →  Measurable impact
 
 **Google Cloud Platform — extensive hands-on experience**
 
-_Compute, containers & serverless_
-
 ![Compute Engine](https://img.shields.io/badge/Compute_Engine-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![GKE](https://img.shields.io/badge/Google_Kubernetes_Engine-4285F4?style=flat-square&logo=kubernetes&logoColor=white)
-![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![App Engine](https://img.shields.io/badge/App_Engine-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-
-_AI, analytics & data engineering_
-
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_on_Google_Cloud-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
-![Dataflow](https://img.shields.io/badge/Dataflow-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Dataproc](https://img.shields.io/badge/Dataproc-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Cloud Composer](https://img.shields.io/badge/Cloud_Composer-4285F4?style=flat-square&logo=apacheairflow&logoColor=white)
-![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=looker&logoColor=white)
-
-_Databases & storage_
-
-![Cloud Storage](https://img.shields.io/badge/Cloud_Storage-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Cloud SQL](https://img.shields.io/badge/Cloud_SQL-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Cloud Spanner](https://img.shields.io/badge/Cloud_Spanner-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Firestore](https://img.shields.io/badge/Firestore-4285F4?style=flat-square&logo=firebase&logoColor=white)
-![Bigtable](https://img.shields.io/badge/Bigtable-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Memorystore](https://img.shields.io/badge/Memorystore-4285F4?style=flat-square&logo=redis&logoColor=white)
-
-_Integration & orchestration_
-
-![Pub/Sub](https://img.shields.io/badge/Pub%2FSub-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Eventarc](https://img.shields.io/badge/Eventarc-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Workflows](https://img.shields.io/badge/Workflows-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Cloud Tasks](https://img.shields.io/badge/Cloud_Tasks-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Cloud Scheduler](https://img.shields.io/badge/Cloud_Scheduler-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![API Gateway](https://img.shields.io/badge/API_Gateway-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-
-_Delivery, networking, security & operations_
-
-![Cloud Build](https://img.shields.io/badge/Cloud_Build-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Artifact Registry](https://img.shields.io/badge/Artifact_Registry-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Cloud Deploy](https://img.shields.io/badge/Cloud_Deploy-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![VPC](https://img.shields.io/badge/Cloud_VPC-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Load Balancing](https://img.shields.io/badge/Cloud_Load_Balancing-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Cloud CDN](https://img.shields.io/badge/Cloud_CDN-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Cloud DNS](https://img.shields.io/badge/Cloud_DNS-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Cloud Armor](https://img.shields.io/badge/Cloud_Armor-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Cloud IAM](https://img.shields.io/badge/Cloud_IAM-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Secret Manager](https://img.shields.io/badge/Secret_Manager-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Cloud KMS](https://img.shields.io/badge/Cloud_KMS-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Cloud Logging](https://img.shields.io/badge/Cloud_Logging-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Cloud Monitoring](https://img.shields.io/badge/Cloud_Monitoring-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Security Command Center](https://img.shields.io/badge/Security_Command_Center-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![GKE](https://img.shields.io/badge/Google_Kubernetes_Engine-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Cloud Run](https://img.shields.io/badge/Cloud_Run-34A853?style=flat-square&logo=googlecloud&logoColor=white)
+![App Engine](https://img.shields.io/badge/App_Engine-1A73E8?style=flat-square&logo=googlecloud&logoColor=white)
+![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-FBBC04?style=flat-square&logo=googlecloud&logoColor=black)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-A142F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_on_Google_Cloud-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
+![Dataflow](https://img.shields.io/badge/Dataflow-12B5CB?style=flat-square&logo=googlecloud&logoColor=white)
+![Dataproc](https://img.shields.io/badge/Dataproc-F29900?style=flat-square&logo=googlecloud&logoColor=white)
+![Cloud Composer](https://img.shields.io/badge/Cloud_Composer-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-7C4DFF?style=flat-square&logo=looker&logoColor=white)
+![Cloud Storage](https://img.shields.io/badge/Cloud_Storage-137333?style=flat-square&logo=googlecloud&logoColor=white)
+![Cloud SQL](https://img.shields.io/badge/Cloud_SQL-174EA6?style=flat-square&logo=googlecloud&logoColor=white)
+![Cloud Spanner](https://img.shields.io/badge/Cloud_Spanner-00ACC1?style=flat-square&logo=googlecloud&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Bigtable](https://img.shields.io/badge/Bigtable-C5221F?style=flat-square&logo=googlecloud&logoColor=white)
+![Memorystore](https://img.shields.io/badge/Memorystore-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Pub/Sub](https://img.shields.io/badge/Pub%2FSub-EA4335?style=flat-square&logo=googlecloud&logoColor=white)
+![Eventarc](https://img.shields.io/badge/Eventarc-F9AB00?style=flat-square&logo=googlecloud&logoColor=black)
+![Workflows](https://img.shields.io/badge/Workflows-8430CE?style=flat-square&logo=googlecloud&logoColor=white)
+![Cloud Tasks](https://img.shields.io/badge/Cloud_Tasks-4C8BF5?style=flat-square&logo=googlecloud&logoColor=white)
+![Cloud Scheduler](https://img.shields.io/badge/Cloud_Scheduler-34A853?style=flat-square&logo=googlecloud&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API_Gateway-A142F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Cloud Build](https://img.shields.io/badge/Cloud_Build-EA4335?style=flat-square&logo=googlecloud&logoColor=white)
+![Artifact Registry](https://img.shields.io/badge/Artifact_Registry-12B5CB?style=flat-square&logo=googlecloud&logoColor=white)
+![Cloud Deploy](https://img.shields.io/badge/Cloud_Deploy-0F9D58?style=flat-square&logo=googlecloud&logoColor=white)
+![Cloud VPC](https://img.shields.io/badge/Cloud_VPC-7C4DFF?style=flat-square&logo=googlecloud&logoColor=white)
+![Load Balancing](https://img.shields.io/badge/Cloud_Load_Balancing-1A73E8?style=flat-square&logo=googlecloud&logoColor=white)
+![Cloud CDN](https://img.shields.io/badge/Cloud_CDN-F29900?style=flat-square&logo=googlecloud&logoColor=white)
+![Cloud DNS](https://img.shields.io/badge/Cloud_DNS-00ACC1?style=flat-square&logo=googlecloud&logoColor=white)
+![Cloud Armor](https://img.shields.io/badge/Cloud_Armor-C5221F?style=flat-square&logo=googlecloud&logoColor=white)
+![Cloud IAM](https://img.shields.io/badge/Cloud_IAM-EA4335?style=flat-square&logo=googlecloud&logoColor=white)
+![Secret Manager](https://img.shields.io/badge/Secret_Manager-C5221F?style=flat-square&logo=googlecloud&logoColor=white)
+![Cloud KMS](https://img.shields.io/badge/Cloud_KMS-9E1B1B?style=flat-square&logo=googlecloud&logoColor=white)
+![Cloud Logging](https://img.shields.io/badge/Cloud_Logging-1A73E8?style=flat-square&logo=googlecloud&logoColor=white)
+![Cloud Monitoring](https://img.shields.io/badge/Cloud_Monitoring-34A853?style=flat-square&logo=googlecloud&logoColor=white)
+![Security Command Center](https://img.shields.io/badge/Security_Command_Center-C5221F?style=flat-square&logo=googlecloud&logoColor=white)
 
 **Web & product engineering**
 
