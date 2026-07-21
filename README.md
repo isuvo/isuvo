@@ -106,8 +106,8 @@ _Compute, containers & serverless_
 _AI, analytics & data engineering_
 
 ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_on_Google_Cloud-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_on_Google_Cloud-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
 ![Dataflow](https://img.shields.io/badge/Dataflow-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Dataproc](https://img.shields.io/badge/Dataproc-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Cloud Composer](https://img.shields.io/badge/Cloud_Composer-4285F4?style=flat-square&logo=apacheairflow&logoColor=white)
@@ -115,12 +115,12 @@ _AI, analytics & data engineering_
 
 _Databases & storage_
 
-![Cloud Storage](https://img.shields.io/badge/Cloud_Storage-AECBFA?style=flat-square&logo=googlecloud&logoColor=1A73E8)
+![Cloud Storage](https://img.shields.io/badge/Cloud_Storage-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Cloud SQL](https://img.shields.io/badge/Cloud_SQL-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Cloud Spanner](https://img.shields.io/badge/Cloud_Spanner-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-4285F4?style=flat-square&logo=firebase&logoColor=white)
 ![Bigtable](https://img.shields.io/badge/Bigtable-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Memorystore](https://img.shields.io/badge/Memorystore-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Memorystore](https://img.shields.io/badge/Memorystore-4285F4?style=flat-square&logo=redis&logoColor=white)
 
 _Integration & orchestration_
 
